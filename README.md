@@ -7,3 +7,4 @@
 * [फ्रंट-एंड कोड](https://github.com/xxai-art/web)
 * [संपूर्ण साइटसाठी भाषा पॅक](https://github.com/xxai-art/web/tree/main/i18n)
 * [लॉगिन मॉड्यूलसाठी भाषा पॅक](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [वेबसाइट बहुभाषिक दस्तऐवजीकरण](https://github.com/xxai-doc)
